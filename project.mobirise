@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-11-18_1956",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -26,7 +26,7 @@
         "isRoundedButtons": false,
         "isGhostButtonBorder": false,
         "underlinedLinks": false,
-        "isAnimatedOnScroll": false,
+        "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
       },
       "additionalSetColors": []
@@ -42,7 +42,7 @@
     ],
     "publishChangesOnly": false,
     "favicon": "@PROJECT_PATH@/assets/images/20201015222252-852-mascot300near.png",
-    "imageResize": false,
+    "imageResize": true,
     "mbrsiteDomain": "qyw3chjyo4",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
