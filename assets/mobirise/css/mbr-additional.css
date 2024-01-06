@@ -2481,55 +2481,6 @@ a {
   background-color: #232323;
   overflow: hidden;
 }
-.cid-tNJ6tcTwPp {
-  padding-top: 6rem;
-  padding-bottom: 2rem;
-  background-color: #ffffff;
-}
-.cid-tNJ6tcTwPp .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tNJ6tcTwPp .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-tNJ6tcTwPp .card .card-header {
-  background-color: transparent;
-  margin-bottom: 0;
-}
-.cid-tNJ6tcTwPp .panel-title {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-.cid-tNJ6tcTwPp .mbr-iconfont {
-  padding-left: 1rem;
-  font-family: 'Moririse2' !important;
-  font-size: 1.4rem !important;
-  color: #6592e6;
-}
-.cid-tNJ6tcTwPp .panel-body,
-.cid-tNJ6tcTwPp .card-header {
-  padding: 1rem 0;
-}
-.cid-tNJ6tcTwPp .panel-title-edit {
-  color: #000000;
-}
-.cid-tNJ77300Y4 {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-tNJ77300Y4 blockquote {
-  border-color: #6592e6;
-  border-radius: 4px;
-  background-color: #fafafa;
-}
 .cid-tnAEfloYNs {
   z-index: 1000;
   width: 100%;
@@ -2884,6 +2835,55 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
+}
+.cid-tNJ6tcTwPp {
+  padding-top: 6rem;
+  padding-bottom: 2rem;
+  background-color: #ffffff;
+}
+.cid-tNJ6tcTwPp .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tNJ6tcTwPp .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tNJ6tcTwPp .card .card-header {
+  background-color: transparent;
+  margin-bottom: 0;
+}
+.cid-tNJ6tcTwPp .panel-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.cid-tNJ6tcTwPp .mbr-iconfont {
+  padding-left: 1rem;
+  font-family: 'Moririse2' !important;
+  font-size: 1.4rem !important;
+  color: #6592e6;
+}
+.cid-tNJ6tcTwPp .panel-body,
+.cid-tNJ6tcTwPp .card-header {
+  padding: 1rem 0;
+}
+.cid-tNJ6tcTwPp .panel-title-edit {
+  color: #000000;
+}
+.cid-tNJ77300Y4 {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-tNJ77300Y4 blockquote {
+  border-color: #6592e6;
+  border-radius: 4px;
+  background-color: #fafafa;
 }
 .cid-tnASSK3HUw {
   padding-top: 30px;
